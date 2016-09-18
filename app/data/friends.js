@@ -1,0 +1,87 @@
+
+
+var friendsArray = [
+{
+  "name":"Barry",
+  "photo":"http://www.teamjimmyjoe.com/wp-content/uploads/2013/11/Funny-Mug-Shots-I-am-the-law.jpg",
+  "scores":[
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+   ]
+},
+
+{
+  "name":"Harry",
+  "photo":"https://s-media-cache-ak0.pinimg.com/564x/3a/19/5a/3a195acffcec6ed5b90c8a1025c97660.jpg",
+  "scores":[
+     2,
+     3,
+     5,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+   ]
+},
+
+{
+  "name":"Terry",
+  "photo":"http://i.telegraph.co.uk/multimedia/archive/02398/jolly-twirl_2398293k.jpg",
+  "scores":[
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     1
+   ]
+},
+
+{
+  "name":"Larry",
+  "photo":"https://s-media-cache-ak0.pinimg.com/564x/09/e8/cf/09e8cf82a612d0ca7111a028d1a41c21.jpg",
+  "scores":[
+  4,
+  4,
+  4,
+  4,
+  4,
+  4,
+  4,
+  4,
+  4,
+  4
+   ]
+},
+
+{
+  "name":"Jerry",
+  "photo":"http://img3.rnkr-static.com/user_node_img/50049/1000977381/870/look-at-the-rabbits-lenny-photo-u1.jpg",
+  "scores":[
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    1
+   ]
+}]
